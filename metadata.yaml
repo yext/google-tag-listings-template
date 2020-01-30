@@ -1,0 +1,5 @@
+homepage: "https://www.yext.com"
+documentation: "https://help.yext.com"
+versions:
+  - sha: a4a2cbfcc2528c6d5ef299dcdfaee0babcc5a3de
+    changeNotes: Initial release.
