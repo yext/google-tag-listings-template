@@ -1,5 +1,7 @@
 homepage: "https://www.yext.com"
 documentation: "https://help.yext.com"
 versions:
+  - sha: 3baf58d3f4723f802dfc26540425ab48bb2639e8
+    changeNotes: Update display name and description
   - sha: a4a2cbfcc2528c6d5ef299dcdfaee0babcc5a3de
     changeNotes: Initial release.
