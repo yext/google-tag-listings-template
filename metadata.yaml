@@ -1,6 +1,8 @@
 homepage: "https://www.yext.com"
 documentation: "https://help.yext.com"
 versions:
+  - sha: 9c05355e9a7912c547930710d740f2c1411284ab
+    changeNotes: Simplify tag code
   - sha: fe0391c185a519ad090a7903655d34871e6ad080
     changeNotes: Update name and description
   - sha: 3baf58d3f4723f802dfc26540425ab48bb2639e8
